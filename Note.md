@@ -1,0 +1,3 @@
+- Create Responsive In Material Ui
+  - Set responsive mobile first
+  - Using theme.breakpoints.up('breakpoint')
